@@ -1,0 +1,9 @@
+* text=auto
+
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.ps1 text eol=crlf
+*.lock text eol=lf
+node_modules/ -text
+dist/ -text
